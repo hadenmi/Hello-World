@@ -2,7 +2,7 @@
 //  Hello_WorldApp.swift
 //  Hello World
 //
-//  Created by Real mac user on 8/15/22.
+//  Created by Haden Miller on 8/15/22.
 //
 
 import SwiftUI
